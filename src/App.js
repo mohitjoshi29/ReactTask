@@ -4,7 +4,9 @@ import Slider from './Slider';
 
 function App() {
   return (
-    <Slider/>
+    <div>
+      <Slider />
+    </div>
   );
 }
 
